@@ -24,9 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 <h1>Tiffany</h1>
 
-!["https://www.facebook.com/photo/?fbid=10208224784086772&set=picfp.1517537418"](src)
+!["](src)
 
- <p>Hi my name is Melissa.</p>
+ <p>Hi my name is Tiffany.</p>
   <p>I live in Marylamd.</p>
 
   <ul>
